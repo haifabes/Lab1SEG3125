@@ -1,0 +1,92 @@
+html {
+background: linear-gradient(0deg, rgba(230, 230, 230, 0.41), rgba(255, 255, 255, 1));
+
+}
+
+.header {
+  padding: 0px;
+  background: #202079;
+  text-align: left;
+}
+.title {
+  text-align: center;
+  color: #666563;
+  font-size: 13px;
+  
+}
+
+.uozone {
+	padding: 0.2px;
+	p.groove {border-style: groove;}
+}
+
+ img {
+  display: block;
+  margin: 0 auto;
+  align: center;
+}
+
+.subheader {
+  padding: 2px;
+  margin: 1 auto;
+  background: #e8e8e8;
+  font-size: 15px;
+  text-align: center;
+  font-family: Candara Light;
+
+}
+
+ .question1{
+  padding: 2px;
+  margin: 1 auto;
+  font-size: 20px;
+  text-align: center;
+  font-family: Candara Light; 
+  
+  border: 2px solid;
+  border-radius: 5px;
+  border-color: #e8e8e8;
+  
+  margin-right: 50px;
+  margin-left: 50px;
+ }
+ 
+  .question2{
+  padding: 2px;
+  margin: 1 auto;
+  font-size: 20px;
+  text-align: center;
+  font-family: Candara Light; 
+  
+  border: 2px solid;
+  border-radius: 5px;
+  border-color: #e8e8e8;
+  margin-right: 50px;
+  margin-left: 50px;
+ }
+ 
+ .com{
+  padding: 2px;
+  margin: 1 auto;
+  font-size: 20px;
+  text-align: left;
+  font-family: Candara Light; 
+  margin-left: 50px;
+ }
+ 
+ button {
+    display: inline-block;
+    height: 80px;
+    padding: 0;
+    margin-left:50px ;
+    width: 250px;
+}
+
+#close-image img {
+    display: block;
+    height: 80px;  
+    width: 250px;
+}
+
+
+ 
